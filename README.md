@@ -1,1 +1,1 @@
-# Hazırlamış olduğum pyhon projeleri burada mevcut
+# Hazırlamış olduğum pyhon ödevleri ve projeleri burada mevcut
