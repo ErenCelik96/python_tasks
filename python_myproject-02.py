@@ -1,4 +1,4 @@
-# project 2 Metro duraklar arası süre hesaplama
+# 1 1 1 1 1 1 project 2 Metro duraklar arası süre hesaplama
 
 print('Lütfen sadece "kadıköy" veya "tavşantepe" seçeneklerinden birini giriniz..')
 kadıköy_yönü = {
