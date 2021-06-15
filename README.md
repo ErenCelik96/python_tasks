@@ -1,1 +1,1 @@
-# Hazırlamış olduğum pyhon ödevleri ve projeleri burada mevcut
+# In this file, I have my python assignments and projects.
